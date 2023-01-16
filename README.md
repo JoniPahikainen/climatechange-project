@@ -31,5 +31,5 @@
 * Run `npm start` in frontend/ and backend/ folders.
 
 ---
-Creators Joni Pahikainen, Tomi Laine Hilppa Huhtanen and Juha-Pekka Kesonen
+Creators Joni Pahikainen, Tomi Laine, Hilppa Huhtanen and Juha-Pekka Kesonen
 
